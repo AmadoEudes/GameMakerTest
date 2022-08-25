@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
     {"id":{"name":"Sala1","path":"rooms/Sala1/Sala1.yy",},"order":0,},
   ],
   "Options": [
