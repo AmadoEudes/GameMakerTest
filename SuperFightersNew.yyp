@@ -4,6 +4,7 @@
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
     {"id":{"name":"character_walk","path":"sprites/character_walk/character_walk.yy",},"order":2,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":0,},
+    {"id":{"name":"d_weapon1","path":"sprites/d_weapon1/d_weapon1.yy",},"order":1,},
     {"id":{"name":"s_wall","path":"sprites/s_wall/s_wall.yy",},"order":0,},
     {"id":{"name":"character_jump","path":"sprites/character_jump/character_jump.yy",},"order":4,},
     {"id":{"name":"Sala1","path":"rooms/Sala1/Sala1.yy",},"order":0,},
@@ -41,6 +42,7 @@
     {"folderPath":"folders/Sprites/floor.yy","order":2,"resourceVersion":"1.0","name":"floor","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objetos/character.yy","order":1,"resourceVersion":"1.0","name":"character","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objetos/floor.yy","order":2,"resourceVersion":"1.0","name":"floor","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/weapons.yy","order":3,"resourceVersion":"1.0","name":"weapons","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
