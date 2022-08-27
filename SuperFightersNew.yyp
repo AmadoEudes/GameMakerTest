@@ -1,6 +1,11 @@
 {
   "resources": [
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
+    {"id":{"name":"character_default","path":"sprites/character_default/character_default.yy",},"order":3,},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
+    {"id":{"name":"character_walk","path":"sprites/character_walk/character_walk.yy",},"order":2,},
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":0,},
+    {"id":{"name":"s_wall","path":"sprites/s_wall/s_wall.yy",},"order":0,},
+    {"id":{"name":"character_jump","path":"sprites/character_jump/character_jump.yy",},"order":4,},
     {"id":{"name":"Sala1","path":"rooms/Sala1/Sala1.yy",},"order":0,},
   ],
   "Options": [
@@ -32,6 +37,10 @@
     {"folderPath":"folders/Curvas de animación.yy","order":12,"resourceVersion":"1.0","name":"Curvas de animación","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notas.yy","order":13,"resourceVersion":"1.0","name":"Notas","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensiones.yy","order":14,"resourceVersion":"1.0","name":"Extensiones","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/character.yy","order":1,"resourceVersion":"1.0","name":"character","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/floor.yy","order":2,"resourceVersion":"1.0","name":"floor","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objetos/character.yy","order":1,"resourceVersion":"1.0","name":"character","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objetos/floor.yy","order":2,"resourceVersion":"1.0","name":"floor","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
